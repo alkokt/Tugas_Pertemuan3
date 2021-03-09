@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Sistem Informasi</string>
+    <string name="judul">Biodata Mahasiswa Pemrograman Mobile</string>
+    <string name="nama">Nama : Alika Oktaviani</string>
+    <string name="nim">NIM : H01191057</string>
+    <string name="ttl">TTL : Panreng, 25 Oktober 2001</string>
+    <string name="email">Email : oktaviania19h@gmail.com</string>
+    <string name="artikel">artikel</string>
+    <string name="judulArt">Obesitas</string>
+    <string name="p1">Obesitas sudah menjadi masalah kesehatan gizi dunia. Obesitas dikelompokkan menjadi dua, yaitu obesitas umum dan obesitas sentral/abdominal. Pada penderita obesitas sentral, lemak yang masuk melalui makanan yang tidak sehat secara berlebih tidak dapat disimpan di dalam jaringan adiposa, sehingga terjadi kelebihan lipid dalam darah dan diakumulasi dalam liver. Hal tersebut dapat mengganggu kinerja insulin dalam menyerap glukosa ke dalam sel. Apabila terjadi dalam waktu jangka panjang dapat mengakibatkan hiperglikemia.</string>
+    <string name="p2">Obesitas dan Hiperglikemia dapat dikendalikan dengan mengkonsumsi pangan tinggi antioksidan dan serat pangan. Sumber antioksidan dapat diperoleh dari minuman berbasis rempah-rempah dan serat pangan dapat diperoleh dari biji asam Jawa.</string>
+    <string name="p3">Biji asam Jawa merupakan bagian dari buah asam yang biasanya tidak dipakai. Pada beberapa penelitian, biji asam Jawa mengandung serat pangan berupa polisakarida larut air (PLA) (Manchanda et al., 2014). PLA di dalam tubuh dapat berikatan dengan air sehingga membentuk larutan yang kental. Larutan kental ini membuat pengosongan perut berjalan lambat sehingga rasa kenyang bertahan lama.</string>
+    <string name="p4">Berdasarkan penelitian yang telah dilakukan oleh Estiasih et al., 2012, polisakarida larut air juga dapat mengurangi level glukosa darah pada kondisi hiperglikemia. Penurunan glukosa darah tersebut terjadi karena adanya penghambatan absorbsi gula dan pembentukan asam lemak rantai pendek. Oleh karena itu, biji asam memiliki potensi dimanfaatkan lebih lanjut untuk mengendalikan obesitas dan hiperglikemia.</string>
+</resources>
